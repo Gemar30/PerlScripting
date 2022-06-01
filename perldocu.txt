@@ -1,3 +1,4 @@
 next = continue
 {last;} = break
 
+$variable substr starting char/index, total no. of character 
